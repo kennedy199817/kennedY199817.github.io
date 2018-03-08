@@ -2,7 +2,7 @@ h1{
     color: #4B0082;
   }
 div{
-    border: 10px solid black;
+    border: black 10px solid;
     background-color: #ffe4e1;
     padding-top: 50px;
     padding-right: 30px;
