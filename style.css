@@ -7,7 +7,7 @@ div{
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
-    padding-left: 80px
+    padding-left: 80px;
   }
 h3{
     text-align: left;
@@ -17,7 +17,7 @@ image{
   height:75px;
   }
 body{ 
-  background-color: #ffe4e1 ;
+  background-color: #ffe4e1;
   }
 .image{
   display: inline;
